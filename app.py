@@ -48,7 +48,7 @@ fig_count_status = px.bar(product_type_price, x='product_type', y='harga', title
 # fig_trend_sales = px.line(data, x="release_year", y="jumlah", title='Movie Trend')
 
 
-logo, page_title = st.columns([0.1,0.9])
+logo, page_title = st.columns([0.15,0.85])
 with logo:
   st.image(image, width=100)
 with page_title:
@@ -56,7 +56,7 @@ with page_title:
 st.markdown('---')
 
 pilihan = st.selectbox('Pilih kolom:',('Age','Weight','Height','ShootingTotal'))
-created_by, chart1, chart2 = st.columns([0.1,0.45,0.45])
+created_by, chart1, chart2 = st.columns([0.15,0.4,0.4])
 with created_by:
   st.markdown(creator, unsafe_allow_html=True)
 with chart1:
@@ -65,7 +65,7 @@ with chart1:
 #   st.plotly_chart(fig_trend_sales, use_container_width=True)
 
 
-__ , chat_ai = st.columns([0.1, 0.9])
+__ , chat_ai = st.columns([0.15, 0.85])
 
 
 with chat_ai:
