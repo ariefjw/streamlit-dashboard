@@ -88,6 +88,10 @@ st.markdown('---')
 created_by, chart1, chart2, chart3 = st.columns([0.15,0.26,0.26,0.26])
 with created_by:
   st.markdown(creator, unsafe_allow_html=True)
+  tableau_link = Image.open("src/img/link.png")
+  url = "https://public.tableau.com/app/profile/amsiki.romadhon/viz/CODA_RMT_001/Dashboard?publish=yes"
+  st.write("[Link Tableau](%s)" % url)
+  st.image(tableau_link, width=100)
 with chart1:
   st.plotly_chart(fig_count_status, use_container_width=True)
 with chart2:
@@ -96,6 +100,7 @@ with chart3:
   st.plotly_chart(fig3, use_container_width=True)
 
 _4_ , pilihan = st.columns([0.15, 0.85])
+
 with pilihan:
   filter_negara = st.selectbox('Pilih Negara:',('Argentina',
   'Brazil',
