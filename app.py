@@ -94,13 +94,17 @@ with chart2:
   st.plotly_chart(fig2, use_container_width=True)
 with chart3:
   st.plotly_chart(fig3, use_container_width=True)
-filter_negara = st.selectbox('Pilih Negara:',('Argentina',
-'Brazil',
-'China',
-'Dominican Republic',
-'Ecuador',
-'Ghana',
-'Indonesia'))
+
+_4_ , pilihan = st.columns([0.15, 0.85])
+with pilihan:
+  filter_negara = st.selectbox('Pilih Negara:',('Argentina',
+  'Brazil',
+  'China',
+  'Dominican Republic',
+  'Ecuador',
+  'Ghana',
+  'Indonesia'))
+
 _3_ , chart4, chart5 = st.columns([0.15, 0.42, 0.43])
 with chart4:
   industri_filter = industri[industri['Country or Area']==filter_negara].sort_values('Value', ascending=False).head(5)
@@ -116,7 +120,7 @@ with chart5:
 
 _2_ , pilih1, pilih2, pilih3 = st.columns([0.15, 0.26,0.26,0.26])
 with pilih1:
-  negara = st.multiselect('Pilih Negara:',('Argentina',
+  negara = st.multiselect('Informasi tentang:',('Argentina',
  'Brazil',
  'China',
  'Dominican Republic',
