@@ -1,0 +1,181 @@
+,Unnamed: 0,Country or Area,Industry,Value,ratio
+0,15,Argentina,"Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods (ISIC Rev.3/3.1: Section G)",5828550.0,16.12167920044901
+1,12,Argentina,Public administration and defense; compulsory social security (ISIC Rev.3/3.1: Section L),5720514.0,15.82285329450333
+2,9,Argentina,Manufacturing (ISIC Rev.3/3.1: Section D),4092598.0,11.32006280333861
+3,3,Argentina,Education (ISIC Rev.3/3.1: Section M),3251030.0,8.99229872456027
+4,14,Argentina,"Transport, storage and communications (ISIC Rev.3/3.1: Section I)",3014524.0,8.33812678454407
+5,2,Argentina,Construction (ISIC Rev.3/3.1: Section F),2527912.0,6.99216551474474
+6,0,Argentina,Activities of private households as employers and undifferentiated production activities of private households (ISIC Rev.3/3.1: Section P),2362672.0,6.5351142290764
+7,1,Argentina,"Agriculture, hunting and forestry (ISIC Rev.3/3.1: Section A)",2177248.0,6.02223431141865
+8,7,Argentina,Health and social work (ISIC Rev.3/3.1: Section N),1891596.0,5.23212529511672
+9,11,Argentina,"Other community, social and personal service activities (ISIC Rev.3/3.1: Section O)",1285422.0,3.55545738154422
+10,13,Argentina,"Real estate, renting and business activities (ISIC Rev.3/3.1: Section K)",1156796.0,3.1996798538851996
+11,8,Argentina,Hotels and restaurants (ISIC Rev.3/3.1: Section H),937912.0,2.59425009346261
+12,5,Argentina,Extraterritorial organizations and bodies (ISIC Rev.3/3.1: Section Q),767340.0,2.122450578218
+13,6,Argentina,Financial intermediation (ISIC Rev.3/3.1:  Section J),555078.0,1.53533716743046
+14,4,Argentina,"Electricity, gas and water supply (ISIC Rev.3/3.1: Section E)",462464.0,1.2791682750866702
+15,10,Argentina,Mining and quarrying (ISIC Rev.3/3.1: Section C),121836.0,0.33699649262096
+16,134,Brazil,"Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods (ISIC Rev.3/3.1: Section G)",29974514.59048116,8.677817584839211
+17,133,Brazil,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC Rev.4: Section G),29314789.0,8.48682272108706
+18,101,Brazil,"Agriculture, forestry and fishing (ISIC Rev.4: Section A)",24516017.0,7.097546910747219
+19,102,Brazil,"Agriculture, hunting and forestry (ISIC Rev.3/3.1: Section A)",23672564.454071432,6.853361894408019
+20,131,Brazil,Unknown,21431800.29984049,6.20464604873966
+21,118,Brazil,Manufacturing (ISIC Rev.3/3.1: Section D),21195811.445632204,6.136325735405039
+22,119,Brazil,Manufacturing (ISIC Rev.4: Section C),20403763.0,5.90702254156001
+23,105,Brazil,Construction (ISIC Rev.4: Section F),12596862.0,3.6468737549500396
+24,104,Brazil,Construction (ISIC Rev.3/3.1: Section F),12589738.04052644,3.64481132219215
+25,128,Brazil,"Real estate, renting and business activities (ISIC Rev.3/3.1: Section K)",11966255.6950011,3.46430911437475
+26,99,Brazil,Activities of private households as employers and undifferentiated production activities of private households (ISIC Rev.3/3.1: Section P),11929899.933098754,3.4537838840497
+27,98,Brazil,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use (ISIC Rev.4: Section T),11929898.0,3.453783324405
+28,107,Brazil,Education (ISIC Rev.4: Section P),9750498.0,2.82283280184326
+29,125,Brazil,Public administration and defence; compulsory social security (ISIC Rev.4: Section O),9298226.0,2.69189710635824
+30,126,Brazil,Public administration and defense; compulsory social security (ISIC Rev.3/3.1: Section L),9297726.126559723,2.69175238973515
+31,106,Brazil,Education (ISIC Rev.3/3.1: Section M),8892036.413166849,2.5743025702145697
+32,129,Brazil,"Transport, storage and communications (ISIC Rev.3/3.1: Section I)",8162851.629541024,2.3631988167628
+33,130,Brazil,Transportation and storage (ISIC Rev.4: Section H),7358368.0,2.13029555602532
+34,114,Brazil,Health and social work (ISIC Rev.3/3.1: Section N),7335417.782479631,2.1236513182821803
+35,116,Brazil,Human health and social work activities (ISIC Rev.4: Section Q),6508185.0,1.88416202931012
+36,122,Brazil,"Other community, social and personal service activities (ISIC Rev.3/3.1: Section O)",6055325.473049088,1.75305624093867
+37,115,Brazil,Hotels and restaurants (ISIC Rev.3/3.1: Section H),6006554.158678213,1.7389366271512299
+38,96,Brazil,Accommodation and food service activities (ISIC Rev.4: Section I),6006552.0,1.7389360021998
+39,100,Brazil,Administrative and support service activities (ISIC Rev.4: Section N),5972898.0,1.7291929495769303
+40,124,Brazil,"Professional, scientific and technical activities (ISIC Rev.4: Section M)",4703100.0,1.36157814199326
+41,123,Brazil,Other service activities (ISIC Rev.4: Section S),4625866.0,1.3392183949713599
+42,112,Brazil,Financial intermediation (ISIC Rev.3/3.1:  Section J),2374286.046750444,0.6873713049042101
+43,111,Brazil,Financial and insurance activities (ISIC Rev.4: Section K),2232638.0,0.64636327098797
+44,117,Brazil,Information and communication (ISIC Rev.4: Section J),2223268.0,0.64365059484022
+45,103,Brazil,"Arts, entertainment and recreation (ISIC Rev.4: Section R)",1434288.0,0.41523573603011005
+46,132,Brazil,"Water supply; sewerage, waste management and remediation activities (ISIC Rev.4: Section E)",1150135.0,0.33297158817406
+47,113,Brazil,Fishing (ISIC Rev.3/3.1: Section B),952702.0918805636,0.27581347284468
+48,121,Brazil,Mining and quarrying (ISIC Rev.4: Section B),802629.0,0.23236633338221
+49,120,Brazil,Mining and quarrying (ISIC Rev.3/3.1: Section C),802528.1198908351,0.23233712793228
+50,108,Brazil,"Electricity, gas and water supply (ISIC Rev.3/3.1: Section E)",758364.2735083034,0.21955140619538002
+51,127,Brazil,Real estate activities (ISIC Rev.4: Section L),746329.0,0.21606711597365
+52,109,Brazil,"Electricity, gas, steam and air conditioning supply (ISIC Rev.4: Section D)",425973.0,0.12332196336017999
+53,97,Brazil,Activities of extraterritorial organizations and bodies (ISIC Rev.4: Section U),8351.0,0.0024176689978494498
+54,110,Brazil,Extraterritorial organizations and bodies (ISIC Rev.3/3.1: Section Q),8347.785622245228,0.0024167384145127135
+55,162,China,"Agriculture, forestry and fishing (ISIC Rev.4: Section A)",69168438.0,12.08427360550972
+56,163,China,"Agriculture, forestry, hunting and fishing (ISIC Rev.1: Division 0)",69168438.0,12.08427360550972
+57,165,China,"Agriculture, hunting, forestry and fishing (ISIC Rev.2: Major Division 1)",69168438.0,12.08427360550972
+58,164,China,"Agriculture, hunting and forestry (ISIC Rev.3/3.1: Section A)",68539842.0,11.97445290880223
+59,188,China,Manufacturing  (ISIC Rev.2: Major Division 3),24118480.0,4.21368936029774
+60,189,China,Manufacturing (ISIC Rev.1: Divisions 2-3),24118480.0,4.21368936029774
+61,190,China,Manufacturing (ISIC Rev.3/3.1: Section D),24118480.0,4.21368936029774
+62,191,China,Manufacturing (ISIC Rev.4: Section C),24118480.0,4.21368936029774
+63,204,China,"Transport, storage and communication (ISIC Rev.1: Division 7)",17220244.0,3.00851292969254
+64,209,China,Wholesale and retail trade and restaurants and hotels (ISIC Rev.2: Major Division 6),17220244.0,3.00851292969254
+65,210,China,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC Rev.4: Section G),13313874.0,2.32603917071659
+66,211,China,"Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods (ISIC Rev.3/3.1: Section G)",13313874.0,2.32603917071659
+67,203,China,Services (ISIC Rev.1: Division 8),12826814.0,2.24094593350485
+68,168,China,"Community, social and personal services (ISIC Rev.2: Major Division 9)",9719804.0,1.6981266936796702
+69,170,China,Construction (ISIC Rev.2: Major Division 5),7839724.0,1.36966183633756
+70,171,China,Construction (ISIC Rev.3/3.1: Section F),7839724.0,1.36966183633756
+71,172,China,Construction (ISIC Rev.4: Section F),7839724.0,1.36966183633756
+72,178,China,"Electricity, gas, water and sanitary services (ISIC Rev.1: Division 5)",7839724.0,1.36966183633756
+73,167,China,Commerce (ISIC Rev.1: Division 6),5637846.0,0.98497632127717
+74,205,China,"Transport, storage and communication (ISIC Rev.2: Major Division 7)",5637846.0,0.98497632127717
+75,206,China,"Transport, storage and communications (ISIC Rev.3/3.1: Section I)",5637846.0,0.98497632127717
+76,207,China,Transportation and storage (ISIC Rev.4: Section H),5089408.0,0.8891598616419499
+77,196,China,"Other community, social and personal service activities (ISIC Rev.3/3.1: Section O)",4856160.0,0.84840958982089
+78,157,China,Accommodation and food service activities (ISIC Rev.4: Section I),3906370.0,0.68247375897595
+79,185,China,Hotels and restaurants (ISIC Rev.3/3.1: Section H),3906370.0,0.68247375897595
+80,158,China,Activities not adequately defined (ISIC Rev.2: Major Division 0),3673750.0,0.64183320372568
+81,159,China,Activities not adequately described (ISIC Rev.1: Division 9),3673750.0,0.64183320372568
+82,199,China,Public administration and defence; compulsory social security (ISIC Rev.4: Section O),3592968.0,0.62771994891428
+83,200,China,Public administration and defense; compulsory social security (ISIC Rev.3/3.1: Section L),3592968.0,0.62771994891428
+84,173,China,Education (ISIC Rev.3/3.1: Section M),3301998.0,0.5768851868079701
+85,174,China,Education (ISIC Rev.4: Section P),3301998.0,0.5768851868079701
+86,182,China,"Financing, insurance, real estate and business services (ISIC Rev.2: Major Division 8)",3107010.0,0.54281923982517
+87,197,China,Other service activities (ISIC Rev.4: Section S),2882414.0,0.50358054088704
+88,202,China,"Real estate, renting and business activities (ISIC Rev.3/3.1: Section K)",1944686.0,0.33975203691609
+89,184,China,Health and social work (ISIC Rev.3/3.1: Section N),1641112.0,0.2867152562457
+90,186,China,Human health and social work activities (ISIC Rev.4: Section Q),1641112.0,0.2867152562457
+91,192,China,Mining and quarrying (ISIC Rev.1: Division 1),1618700.0,0.28279970244866
+92,193,China,Mining and quarrying (ISIC Rev.2: Major Division 2),1618700.0,0.28279970244866
+93,194,China,Mining and quarrying (ISIC Rev.3/3.1: Section C),1618700.0,0.28279970244866
+94,195,China,Mining and quarrying (ISIC Rev.4: Section B),1618700.0,0.28279970244866
+95,180,China,Financial and insurance activities (ISIC Rev.4: Section K),1162324.0,0.20306720290907998
+96,181,China,Financial intermediation (ISIC Rev.3/3.1:  Section J),1162324.0,0.20306720290907998
+97,169,China,Construction (ISIC Rev.1: Division 4),991982.0,0.17330710720604
+98,175,China,"Electricity, gas and water (ISIC Rev.2: Major Division 4)",991982.0,0.17330710720604
+99,176,China,"Electricity, gas and water supply (ISIC Rev.3/3.1: Section E)",991982.0,0.17330710720604
+100,161,China,Administrative and support service activities (ISIC Rev.4: Section N),982644.0,0.17167568469324
+101,201,China,Real estate activities (ISIC Rev.4: Section L),962042.0,0.16807635222283998
+102,187,China,Information and communication (ISIC Rev.4: Section J),878824.0,0.15353750892984
+103,177,China,"Electricity, gas, steam and air conditioning supply (ISIC Rev.4: Section D)",840970.0,0.14692411550518
+104,208,China,"Water supply; sewerage, waste management and remediation activities (ISIC Rev.4: Section E)",686140.0,0.11987408898382002
+105,166,China,"Arts, entertainment and recreation (ISIC Rev.4: Section R)",649002.0,0.11338578642649999
+106,183,China,Fishing (ISIC Rev.3/3.1: Section B),628596.0,0.10982069670748999
+107,198,China,"Professional, scientific and technical activities (ISIC Rev.4: Section M)",459230.0,0.08023111592975
+108,160,China,Activities of extraterritorial organizations and bodies (ISIC Rev.4: Section U),1316.0,0.0002299156164962233
+109,179,China,Extraterritorial organizations and bodies (ISIC Rev.3/3.1: Section Q),1316.0,0.0002299156164962233
+110,229,Dominican Republic,"Wholesale and retail trade; repair of motor vehicles, motorcycles and personal and household goods (ISIC Rev.3/3.1: Section G)",1459710.0,24.091957134204
+111,222,Dominican Republic,Manufacturing (ISIC Rev.3/3.1: Section D),659288.0,10.88129713100211
+112,213,Dominican Republic,"Agriculture, hunting and forestry (ISIC Rev.3/3.1: Section A)",577706.0,9.53481731862661
+113,224,Dominican Republic,"Other community, social and personal service activities (ISIC Rev.3/3.1: Section O)",415750.0,6.86179527340726
+114,227,Dominican Republic,"Transport, storage and communications (ISIC Rev.3/3.1: Section I)",406264.0,6.70523245930373
+115,214,Dominican Republic,Construction (ISIC Rev.3/3.1: Section F),404220.0,6.67149701844061
+116,212,Dominican Republic,Activities of private households as employers and undifferentiated production activities of private households (ISIC Rev.3/3.1: Section P),370124.0,6.10875553523653
+117,228,Dominican Republic,Unknown,316026.0,5.2158886664433
+118,215,Dominican Republic,Education (ISIC Rev.3/3.1: Section M),291510.0,4.8112614315116
+119,225,Dominican Republic,Public administration and defense; compulsory social security (ISIC Rev.3/3.1: Section L),279940.0,4.62030299179225
+120,221,Dominican Republic,Hotels and restaurants (ISIC Rev.3/3.1: Section H),252898.0,4.17398508972736
+121,226,Dominican Republic,"Real estate, renting and business activities (ISIC Rev.3/3.1: Section K)",250214.0,4.1296866928209806
+122,220,Dominican Republic,Health and social work (ISIC Rev.3/3.1: Section N),186744.0,3.08213853646943
+123,218,Dominican Republic,Financial intermediation (ISIC Rev.3/3.1:  Section J),114062.0,1.8825498315703602
+124,216,Dominican Republic,"Electricity, gas and water supply (ISIC Rev.3/3.1: Section E)",51044.0,0.84246176292435
+125,223,Dominican Republic,Mining and quarrying (ISIC Rev.3/3.1: Section C),13044.0,0.21528624785646
+126,219,Dominican Republic,Fishing (ISIC Rev.3/3.1: Section B),8146.0,0.13444662488797
+127,217,Dominican Republic,Extraterritorial organizations and bodies (ISIC Rev.3/3.1: Section Q),2220.0,0.03664025377501
+128,234,Ecuador,"Agriculture, forestry and fishing (ISIC Rev.4: Section A)",2522824.0,21.83956882238162
+129,251,Ecuador,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC Rev.4: Section G),2131170.0,18.44910064562373
+130,242,Ecuador,Manufacturing (ISIC Rev.4: Section C),1173530.0,10.15900800060943
+131,249,Ecuador,Unknown,883918.0,7.65189644396197
+132,236,Ecuador,Construction (ISIC Rev.4: Section F),754980.0,6.5357066801020105
+133,248,Ecuador,Transportation and storage (ISIC Rev.4: Section H),602498.0,5.21570134751662
+134,237,Ecuador,Education (ISIC Rev.4: Section P),593664.0,5.1392272252722995
+135,246,Ecuador,Public administration and defence; compulsory social security (ISIC Rev.4: Section O),474598.0,4.10849733630434
+136,230,Ecuador,Accommodation and food service activities (ISIC Rev.4: Section I),439302.0,3.80294711910537
+137,232,Ecuador,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use (ISIC Rev.4: Section T),418572.0,3.6234917699855
+138,233,Ecuador,Administrative and support service activities (ISIC Rev.4: Section N),308364.0,2.66944376632887
+139,240,Ecuador,Human health and social work activities (ISIC Rev.4: Section Q),284224.0,2.46046874810632
+140,244,Ecuador,Other service activities (ISIC Rev.4: Section S),241890.0,2.09399201151007
+141,245,Ecuador,"Professional, scientific and technical activities (ISIC Rev.4: Section M)",230840.0,1.99833443274622
+142,241,Ecuador,Information and communication (ISIC Rev.4: Section J),143798.0,1.2448297295098
+143,239,Ecuador,Financial and insurance activities (ISIC Rev.4: Section K),108942.0,0.94308850187246
+144,235,Ecuador,"Arts, entertainment and recreation (ISIC Rev.4: Section R)",68368.0,0.5918477235227599
+145,243,Ecuador,Mining and quarrying (ISIC Rev.4: Section B),64840.0,0.56130655267399
+146,250,Ecuador,"Water supply; sewerage, waste management and remediation activities (ISIC Rev.4: Section E)",45502.0,0.39390146144003996
+147,238,Ecuador,"Electricity, gas, steam and air conditioning supply (ISIC Rev.4: Section D)",32214.0,0.27886997667859
+148,247,Ecuador,Real estate activities (ISIC Rev.4: Section L),23978.0,0.20757261752030998
+149,231,Ecuador,Activities of extraterritorial organizations and bodies (ISIC Rev.4: Section U),3604.0,0.03119908722759
+150,278,Ghana,"Agriculture, forestry and fishing (ISIC Rev.4: Section A)",9759270.0,44.603924543161774
+151,294,Ghana,Wholesale and retail trade; repair of motor vehicles and motorcycles (ISIC Rev.4: Section G),3934548.0,17.98252144919118
+152,286,Ghana,Manufacturing (ISIC Rev.4: Section C),2256840.0,10.31469782739787
+153,274,Ghana,Accommodation and food service activities (ISIC Rev.4: Section I),1138706.0,5.20436021350424
+154,288,Ghana,Other service activities (ISIC Rev.4: Section S),936098.0,4.27835735224096
+155,281,Ghana,Education (ISIC Rev.4: Section P),801028.0,3.66103125223093
+156,292,Ghana,Transportation and storage (ISIC Rev.4: Section H),722076.0,3.30018776183342
+157,280,Ghana,Construction (ISIC Rev.4: Section F),624124.0,2.85250636590403
+158,290,Ghana,Public administration and defence; compulsory social security (ISIC Rev.4: Section O),302934.0,1.38453442496807
+159,284,Ghana,Human health and social work activities (ISIC Rev.4: Section Q),244644.0,1.11812487162843
+160,287,Ghana,Mining and quarrying (ISIC Rev.4: Section B),228594.0,1.0447696935344
+161,289,Ghana,"Professional, scientific and technical activities (ISIC Rev.4: Section M)",188532.0,0.8616696845124
+162,276,Ghana,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use (ISIC Rev.4: Section T),176022.0,0.80449377934378
+163,283,Ghana,Financial and insurance activities (ISIC Rev.4: Section K),140594.0,0.6425730784394
+164,277,Ghana,Administrative and support service activities (ISIC Rev.4: Section N),132780.0,0.60685984718539
+165,279,Ghana,"Arts, entertainment and recreation (ISIC Rev.4: Section R)",113728.0,0.51978428001732
+166,285,Ghana,Information and communication (ISIC Rev.4: Section J),83986.0,0.38385096494737
+167,293,Ghana,"Water supply; sewerage, waste management and remediation activities (ISIC Rev.4: Section E)",49248.0,0.22508385113862
+168,282,Ghana,"Electricity, gas, steam and air conditioning supply (ISIC Rev.4: Section D)",31540.0,0.14415092318291
+169,291,Ghana,Real estate activities (ISIC Rev.4: Section L),8890.0,0.04063099895675
+170,275,Ghana,Activities of extraterritorial organizations and bodies (ISIC Rev.4: Section U),5664.0,0.02588683668066
+171,295,Indonesia,"Agriculture, hunting, forestry and fishing (ISIC Rev.2: Major Division 1)",78657830.0,35.86101204938627
+172,303,Indonesia,Wholesale and retail trade and restaurants and hotels (ISIC Rev.2: Major Division 6),46793074.0,21.3335022151237
+173,296,Indonesia,"Community, social and personal services (ISIC Rev.2: Major Division 9)",33291718.0,15.1780782706918
+174,300,Indonesia,Manufacturing  (ISIC Rev.2: Major Division 3),29084162.0,13.25980495429765
+175,297,Indonesia,Construction (ISIC Rev.2: Major Division 5),12679622.0,5.78078593477169
+176,302,Indonesia,"Transport, storage and communication (ISIC Rev.2: Major Division 7)",10157644.0,4.63098707245516
+177,299,Indonesia,"Financing, insurance, real estate and business services (ISIC Rev.2: Major Division 8)",5266724.0,2.40116022555913
+178,301,Indonesia,Mining and quarrying (ISIC Rev.2: Major Division 2),2930752.0,1.33616364430296
+179,298,Indonesia,"Electricity, gas and water (ISIC Rev.2: Major Division 4)",479272.0,0.21850563341161
